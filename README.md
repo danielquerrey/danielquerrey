@@ -31,7 +31,7 @@
 - 🎉 Recently Completed Projects:
 
 -   <a href="http://people.tamu.edu/~daniel.q" target="_blank">Portfolio Website</a>
--   <a href="https://github.com/prknezek/chess-bot" target="_blank">Python Chess Bot</a>
+-   <a href="https://github.com/danielquerrey/PokerPayoutPro" target="_blank">Poker Payout Pro</a>
 <!--Intro end-->
 
 <!--h1 without bottom border-->
