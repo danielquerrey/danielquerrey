@@ -28,9 +28,9 @@
 
 - 🎉 Recently Completed Projects:
 
+-   <a href="https://piadapos.azurewebsites.net/" target = "_blank">Cloud POS System</a>
 -   <a href="http://people.tamu.edu/~daniel.q" target="_blank">Portfolio Website</a>
 -   <a href="https://danielquerrey.github.io/PokerPayoutPro/" target="_blank">Poker Payout Pro</a>
--   <a href="https://piadapos.azurewebsites.net/" target = "_blank">Cloud POS System</a>
 <!--Intro end-->
 
 <!--h1 without bottom border-->
