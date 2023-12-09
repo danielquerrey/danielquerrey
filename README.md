@@ -22,8 +22,6 @@
 </div>
 
 <!--Intro start-->
-- 🚧 AI Chess Bot
-
 - 🌱 I’m currently learning about **Web Development and ML**
 
 - 📫 Feel free to reach out **daniel.q@tamu.edu**
