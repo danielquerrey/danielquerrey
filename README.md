@@ -41,7 +41,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,bots,cpp,css,discord,github,html,java,latex,linux,lua,md,py,vscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=py,git,bootstrap,bots,cpp,css,discord,github,html,java,latex,linux,lua,md,vscode&perline=8" />
   </a>
 </p>
 
