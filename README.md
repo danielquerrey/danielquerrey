@@ -17,19 +17,19 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">I'm a Junior CS Major at TAMU, welcome to my page!</h2></summary>
+    <summary><h2 style="display: inline-block">I'm a Senior CS Major at TAMU, welcome to my page!</h2></summary>
   </ul>
 </div>
 
 <!--Intro start-->
-- 🌱 I’m currently learning about **Web Development and ML**
+- 🌱 I’m currently learning about **UNIX and batch scripting at Charles Schwab on my Internship!**
 
 - 📫 Feel free to reach out **daniel.q@tamu.edu**
 
 - 🎉 Recently Completed Projects:
 
--   <a href="https://piadapos.azurewebsites.net/" target = "_blank">Cloud POS System</a>
--   <a href="http://people.tamu.edu/~daniel.q" target="_blank">Portfolio Website</a>
+-   <!-- <a href="https://piadapos.azurewebsites.net/" target = "_blank">Cloud POS System</a> -->
+-   <!-- <a href="http://people.tamu.edu/~daniel.q" target="_blank">Portfolio Website</a> -->
 -   <a href="https://danielquerrey.github.io/PokerPayoutPro/" target="_blank">Poker Payout Pro</a>
 <!--Intro end-->
 
