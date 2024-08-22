@@ -28,8 +28,7 @@
 
 - 🎉 Recently Completed Projects:
 
--   <!-- <a href="https://piadapos.azurewebsites.net/" target = "_blank">Cloud POS System</a> -->
--   <!-- <a href="http://people.tamu.edu/~daniel.q" target="_blank">Portfolio Website</a> -->
+
 -   <a href="https://gobababygo-tamu-ba307e044d8a.herokuapp.com/" target="_blank">GoBabyGo</a>
 -   <a href="https://github.com/danielquerrey/Cloud-Based-POS-System" target="_blank">Cloud Based POS System</a>
 -   <a href="https://github.com/danielquerrey/EduInsight" target="_blank">EduInsight</a>
