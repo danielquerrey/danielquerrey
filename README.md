@@ -22,9 +22,9 @@
 </div>
 
 <!--Intro start-->
-- 🌱 I’m currently learning about **UNIX and batch scripting at Charles Schwab on my Internship!**
+- 🌱 I just finished learning about **UNIX and batch scripting at Charles Schwab during my Internship this past summer!**
 
-- 📫 Feel free to reach out **daniel.q@tamu.edu**
+- 📫 Feel free to reach out **daniel.querrey@gmail.com**
 
 - 🎉 Recently Completed Projects:
 
