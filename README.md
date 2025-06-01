@@ -8,7 +8,6 @@
   </ul>
 </div>
 
-
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg"
@@ -17,22 +16,25 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">I'm a Senior CS Major at TAMU, welcome to my page!</h2></summary>
+    <summary><h2 style="display: inline-block">I'm an incoming Software Engineer at JPMorgan Chase & a recent Texas A&M grad — welcome to my Github!</h2></summary>
   </ul>
 </div>
 
 <!--Intro start-->
-- 🌱 I just finished learning about **UNIX and batch scripting at Charles Schwab during my Internship this past summer!**
+- 🎓 I recently graduated **Cum Laude** with a **B.S. in Computer Science** from **Texas A&M University**!
 
-- 📫 Feel free to reach out **daniel.querrey@gmail.com**
+- 💼 I’ll be starting my professional journey as a **Software Engineer** at **JPMorgan Chase** in **Dallas, TX**.
 
-- 🎉 Recently Completed Projects:
+- 🌱 This past summer, I sharpened my skills in **UNIX and batch scripting** during my internship at **Charles Schwab**.
 
+- 📫 Feel free to reach out **daniel.querrey@gmail.com** for any inquiries
 
--   <a href="https://gobababygo-tamu-ba307e044d8a.herokuapp.com/" target="_blank">GoBabyGo</a>
--   <a href="https://github.com/danielquerrey/Cloud-Based-POS-System" target="_blank">Cloud Based POS System</a>
--   <a href="https://github.com/danielquerrey/EduInsight" target="_blank">EduInsight</a>
--   <a href="https://danielquerrey.github.io/PokerPayoutPro/" target="_blank">Poker Payout Pro</a>
+- 🎉 Here are some recently completed projects!
+
+  - <a href="https://gobababygo-tamu-ba307e044d8a.herokuapp.com/" target="_blank">GoBabyGo</a>  
+  - <a href="https://github.com/danielquerrey/Cloud-Based-POS-System" target="_blank">Cloud Based POS System</a>  
+  - <a href="https://github.com/danielquerrey/EduInsight" target="_blank">EduInsight</a>  
+  - <a href="https://danielquerrey.github.io/PokerPayoutPro/" target="_blank">Poker Payout Pro</a>  
 <!--Intro end-->
 
 <!--h1 without bottom border-->
